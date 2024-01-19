@@ -1,0 +1,46 @@
+{
+  "ProductList": [
+    {
+      "id": 1,
+      "name": "Nasi Lemak",
+      "description": "Fragrant rice cooked in coconut milk, served with anchovies, peanuts, boiled eggs, cucumber, and sambal.",
+      "price": 6.99,
+      "image": "https://img.freepik.com/free-vector/hand-painted-watercolor-nasi-lemak_52683-62088.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Satay",
+      "description": "Grilled skewers of marinated meat (usually chicken or beef) served with peanut sauce.",
+      "price": 8.49,
+      "image": "https://i.pinimg.com/736x/3e/26/49/3e2649bd05838b0336e38ee79fe48538.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Laksa",
+      "description": "Spicy noodle soup with a coconut milk base, typically containing prawns, chicken, or fish.",
+      "price": 9.99,
+      "image": "https://img.freepik.com/premium-photo/watercolor-vibrant-bowl-laksa-popular-street-food-beauty-painting-art-food-cuisine_655090-573294.jpg?w=740"
+    },
+    {
+      "id": 4,
+      "name": "Roti Canai",
+      "description": "Indian-influenced flatbread served with curry sauce for dipping.",
+      "price": 4.99,
+      "image": "https://t3.ftcdn.net/jpg/06/38/30/78/360_F_638307824_Jkc8vBhdqXaBhE1VnKNJksVNEyJKxMlL.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rendang",
+      "description": "Slow-cooked and flavorful meat (often beef) in coconut milk and spices.",
+      "price": 11.99,
+      "image": "https://png.pngtree.com/png-clipart/20230110/ourlarge/pngtree-lemang-and-rendang-png-image_6558418.png"
+    },
+    {
+      "id": 6,
+      "name": "Mee Goreng",
+      "description": "Stir-fried noodles with a variety of ingredients, including vegetables, eggs, and prawns.",
+      "price": 7.99,
+      "image": "https://img.freepik.com/premium-photo/design-mee-goreng-menu-vibrant-yellow-color-with-playful-illustra-flat-2d-creative-art-ideas_655090-875246.jpg"
+    }
+  ]
+}
